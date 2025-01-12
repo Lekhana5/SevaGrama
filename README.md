@@ -1,8 +1,8 @@
 # SevaGrama
 
-# Information Extraction through OCR
+## Information Extraction through OCR
 
-# Extracted Text:
+### Extracted Text:
 of a VAKIL SEARCH
 
 Birth Certificate in Telangana
@@ -26,9 +26,9 @@ Address atthe time of ,
 
 Birth
 
-# Extracted Data:
-Name: 1S
-Date of Birth: 24-Dec-1999
+### Extracted Data:
+Name: 1S \r\n
+Date of Birth: 24-Dec-1999 \r\n
 Gender: Female
 Place of Birth: ST THERESA HOSPITAL HYDERABAD Name of Father
 Father's Name: KRISHNA Name of Mother
