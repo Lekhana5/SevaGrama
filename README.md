@@ -28,14 +28,14 @@ Birth
 
 ### Extracted Data:
 Name: 1S <br>
-Date of Birth: 24-Dec-1999 \r\n
-Gender: Female
-Place of Birth: ST THERESA HOSPITAL HYDERABAD Name of Father
-Father's Name: KRISHNA Name of Mother
-Mother's Name: SHARADA Registration Number
-Registration Number: 5373
-Date of Registration: 24-Dec-1999
-Address: Not Available
+Date of Birth: 24-Dec-1999 <br>
+Gender: Female <br>
+Place of Birth: ST THERESA HOSPITAL HYDERABAD Name of Father <br>
+Father's Name: KRISHNA Name of Mother <br>
+Mother's Name: SHARADA Registration Number<br>
+Registration Number: 5373<br>
+Date of Registration: 24-Dec-1999<br>
+Address: Not Available<br>
 
-Is the above information correct? If there are any changes, please specify them.
+Is the above information correct? If there are any changes, please specify them.<br>
 Enter your changes in the format 'Field: Corrected Value', or type 'yes' to confirm: 
