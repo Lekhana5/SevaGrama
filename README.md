@@ -27,7 +27,7 @@ Address atthe time of ,
 Birth
 
 ### Extracted Data:
-Name: 1S \r\n
+Name: 1S \n
 Date of Birth: 24-Dec-1999 \r\n
 Gender: Female
 Place of Birth: ST THERESA HOSPITAL HYDERABAD Name of Father
