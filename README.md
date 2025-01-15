@@ -2,40 +2,22 @@
 
 ## Information Extraction through OCR
 
-### Extracted Text:
-of a VAKIL SEARCH
-
-Birth Certificate in Telangana
-BIRTH CERTIFICATE
-(fesued Under Section 12/17)
-This ts to certify that the following information has been taken from the
-original record of birth which is the register for ward 7 , circle 10 of Greater
-Hyderabad Municipal Corporation, Telangana State, India
-
-Name 1S, HARSHA VARDHINI
-
-Date of Birth : 24-Dec-1999 Sex : Female
-Place of Birth :ST THERESA HOSPITAL HYDERABAD
-
-‘Name of Father :KRISHNA
-
-Name of Mother : SHARADA
-
-Registration Number +5373 Date Of Registration ; 24-Dec-1999
-Address atthe time of ,
-
-Birth
-
 ### Extracted Data:
-Name: 1S <br>
-Date of Birth: 24-Dec-1999 <br>
-Gender: Female <br>
-Place of Birth: ST THERESA HOSPITAL HYDERABAD Name of Father <br>
-Father's Name: KRISHNA Name of Mother <br>
-Mother's Name: SHARADA Registration Number<br>
-Registration Number: 5373<br>
-Date of Registration: 24-Dec-1999<br>
-Address: Not Available<br>
+The birth certificate contains the following information:
+
+- Name: ERAM FATHIMA
+- Date of Birth: 07/03/2015
+- Gender: Female
+- Place of Birth: K.C. General Hospital
+- Name of Father: WASEEM ARIF
+- Name of Mother: NAZIYA PARVEEN
+- Address: NO.25 5TH CROSS SHAMANNA GARDEN OLD GUDDADAHALLI BENGALURU-26
+- Registration Number: KCG/B/2015/00050/000845
+- Date of Registration: 23/03/2015
+- Date of Issue: 23/03/2015
+- Signature of Issuing Authority: (Signature of the issuing authority)
+
+The certificate is issued under Section 12/17 of the RBD Act, 1969, and Rule 8/13 of the KRBD Rules, 1999.
 
 Is the above information correct? If there are any changes, please specify them.<br>
 Enter your changes in the format 'Field: Corrected Value', or type 'yes' to confirm: 
